@@ -1,0 +1,48 @@
+/* General Styles */
+body {
+    background-color: #b10707;
+    font-family: Arial, sans-serif;
+}
+
+/* Navbar Styling */
+.navbar {
+    background-color: #daccff;
+    border: none;
+    color: white;       
+    height: 60px;
+}
+.navbar-text {
+    color: rgb(86, 85, 85) !important;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+/* Login Panel */
+.col-lg-3.well {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(23, 23, 23, 0.1);
+}
+h4 {
+    color: #333;
+}
+.form-group input {
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 8px;
+    width: 100%;
+}
+
+/* Button Styling */
+button {
+    background-color: #333;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #555;
+}
